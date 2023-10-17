@@ -1,0 +1,4 @@
+curl --request DELETE \
+  --url https://www.comune.rivadelgarda.tn.it/api/opendata/v2/content/delete/test-delibera-2 \
+  --header 'Authorization: Basic (puoi_creare_in_https://www.blitter.se/utils/basic-authentication-header-generator/)' \
+  --header 'Content-Type: application/json' 
